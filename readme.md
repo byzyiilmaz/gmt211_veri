@@ -44,3 +44,4 @@ Bu proje, `gmt211_veri` adlı bir veri seti üzerinde çalışmayı ve bu süre�
 - Hatalı girilen komutları düzeltme sürecinde AI'den faydalanarak daha verimli bir iş akışı oluşturdum.
 
 ---
+![resim]("C:\Users\Excalibur\Desktop\resim.png")
